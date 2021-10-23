@@ -61,6 +61,10 @@
 
 ➡️ [more blog posts...](https://youcanbeapirate.com)
 
+---
+
+<img align="left" alt="AnttiRask's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AnttiRask&show_icons=true&hide_border=true" />
+
 [blog]: https://youcanbeapirate.com
 <!--- [course]: http://vsCodeHero.com --->
 [twitter]: https://twitter.com/youcanbeapirate
