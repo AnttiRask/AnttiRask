@@ -5,8 +5,8 @@
 
 ## I'm a Husband, Father, Musician and a Business Development Manager excited about Data Analytics and Data Science!
 
-- 🔭 In May 2021 I launched my R related blog, "why join the navy when you can be a pi{R}ate" (youcanbeapirate for short)": [youcanbeapirate][blog]!
-- 🌱 I’m currently learning (among other things) [statistical learning][ISLR]
+- 🔭 In May 2021 I launched my R related blog, "why join the navy when you can be a pi{R}ate": [youcanbeapirate][blog]!
+- 🌱 I’m currently learning [statistical learning][ISLR] (among other things)
 - 👯 I’m looking to connect and/or collaborate especially with others interested in both data and music (business)
 - 🥅 2021 Goals: Continue learning new things and writing blog posts about the process 
 - ⚡ Fun fact: I love to sing and play the ukulele (in fact, I have three of them - a tenor, a baritone and a bass). I play in a band, [Antti & Isotalo][spotify-antti-&-isotalo], but have also released a solo EP under the name [Eriparimies][spotify-eriparimies].
@@ -15,15 +15,15 @@
 
 [<img align="left" alt="youcanbeapirate.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
 <!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-[<img align="left" alt="youcanbeapirate | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="anttirask | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="youcanbeapirate | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="youcanbeapirate | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
+<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 <!-- <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
