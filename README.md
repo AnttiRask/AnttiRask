@@ -54,6 +54,8 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+➡️ [more blog posts...](https://youcanbeapirate.com)
+
 [blog]: https://youcanbeapirate.com
 <!--- [course]: http://vsCodeHero.com --->
 [twitter]: https://twitter.com/youcanbeapirate
