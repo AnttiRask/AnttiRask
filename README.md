@@ -46,6 +46,7 @@
 
 ➡️ [more blog posts...](https://youcanbeapirate.com)
 <br />
+<br />
 (And if you want to find out how to automate your blog post workflow, check out this repo by [Gautama Krishna R][blog-post-workflow])
 
 [blog]: https://youcanbeapirate.com
