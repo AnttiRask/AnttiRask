@@ -56,6 +56,7 @@
 - [Anonymizing Data and Creating Fake Data](https://youcanbeapirate.com/2021/06/27/anonymizing-data-and-creating-fake-data/)
 - [Mining Text from PDF Files, Part 3: PDF with an Image](https://youcanbeapirate.com/2021/06/05/mining-text-from-pdf-files-part-3-pdf-with-an-image/)
 - [Mining Text from PDF Files, Part 2: PDF with Tables](https://youcanbeapirate.com/2021/05/29/mining-text-from-pdf-files-part-2-pdf-with-tables/)
+- [Contact](https://youcanbeapirate.com/contact/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://youcanbeapirate.com)
