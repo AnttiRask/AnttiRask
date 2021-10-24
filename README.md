@@ -1,18 +1,24 @@
-### Hi there, I'm Antti - aka [youcanbeapirate][blog] from Helsinki, Finland 👋
-
 [![Website](https://img.shields.io/website?label=youcanbeapirate.com&style=for-the-badge&url=https%3A%2F%2Fyoucanbeapirate.com)](https://youcanbeapirate.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/youcanbeapirate?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fyoucanbeapirate&screen_name=youcanbeapirate)
 
-## I'm a Husband, Father, Musician and a Business Development Manager excited about Data Analytics and Data Science!
+### Hi there 👋
+Thank you for taking the time and visiting my GitHub profile. Great to have you here!
 
+### About Me:
+- 📊 I'm a Business Development Manager with a 20+ years of experience in the music industry.
+- 📚 Since 2019 I've been studying data analytics and data science. It's funny, but I think I finally know what I want to do when I 'grow up'.
+
+### Current 
 - 🔭 In May 2021 I launched my R related blog, "why join the navy when you can be a pi{R}ate": [youcanbeapirate][blog]!
 - 🌱 I’m currently learning [statistical learning][ISLR] (among other things)
 - 👯 I’m looking to connect and/or collaborate especially with others interested in both data and music (business)
 - 🥅 2021 Goals: Continue learning new things and writing blog posts about the process 
-- ⚡ Fun fact: I love to sing and play the ukulele (in fact, I have three of them - a tenor, a baritone and a bass). I play in a band, [Antti & Isotalo][spotify-antti-&-isotalo], but have also released a solo EP under the name [Eriparimies][spotify-eriparimies].
+
+### Fun facts:
+- ⚡ I love to sing and play the ukulele. I play in a band, [Antti & Isotalo][spotify-antti-&-isotalo], but have also released a solo EP under the name [Eriparimies][spotify-eriparimies].
+- 🎥 Related to the previous fact, I was a contestant in the Voice of Finland 2019. A great experience, although I would never want to go through it again!
 
 ### Connect with me:
-
 [<img align="left" alt="youcanbeapirate.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
 [<img align="left" alt="anttirask | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="youcanbeapirate | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
