@@ -14,7 +14,6 @@
 ### Connect with me:
 
 [<img align="left" alt="youcanbeapirate.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
-<!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 [<img align="left" alt="anttirask | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="youcanbeapirate | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="youcanbeapirate | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -33,20 +32,6 @@
 <br />
 <br />
 
-<!-- ---
-
- ### 📺 Latest YouTube Videos -->
-
-<!-- YOUTUBE:START -->
-<!-- - [vscode.dev - VS Code In The Browser!!](https://www.youtube.com/watch?v=-5TFQjzEK-8)
-- [STACKr News Weekly: Quit Everything & Start Over 🔃, Stop Procrastinating 🛑, Learn Svelte 🏫](https://www.youtube.com/watch?v=kDdvT8coKwc)
-- [STACKr News Weekly: Quit Google 🚫, Authentication 🔐, Open Source 💪](https://www.youtube.com/watch?v=KxLgwLa8Aq8)
-- [Top VS Code Updates | v1.61 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=JHgbB0RW-50)
-- [Simple Next.js User Login Authentication | 5 Steps in 5 Minutes! | Auth0](https://www.youtube.com/watch?v=jgKRnhJBfpQ) -->
-<!-- YOUTUBE:END -->
-
-<!-- ➡️ [more videos...](https://youtube.com/codestackr) -->
-
 ---
 
 ### 📕 Latest Blog Posts
@@ -56,26 +41,22 @@
 - [Anonymizing Data and Creating Fake Data](https://youcanbeapirate.com/2021/06/27/anonymizing-data-and-creating-fake-data/)
 - [Mining Text from PDF Files, Part 3: PDF with an Image](https://youcanbeapirate.com/2021/06/05/mining-text-from-pdf-files-part-3-pdf-with-an-image/)
 - [Mining Text from PDF Files, Part 2: PDF with Tables](https://youcanbeapirate.com/2021/05/29/mining-text-from-pdf-files-part-2-pdf-with-tables/)
-- [Mining Text from PDF Files, Part 1: PDF with Text](https://youcanbeapirate.com/2021/05/22/mining-text-from-pdf-files-part-1-pdf-with-text/)
+- [Contact](https://youcanbeapirate.com/contact/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://youcanbeapirate.com)
+<br />
+(And if you want to find out how to automate your blog post workflow, check out this repo by [Gautama Krishna R][blog-post-workflow])
 
 [blog]: https://youcanbeapirate.com
-<!--- [course]: http://vsCodeHero.com --->
-[twitter]: https://twitter.com/youcanbeapirate
-<!--- [youtube]: https://youtube.com/codeSTACKr --->
-[instagram]: https://instagram.com/youcanbeapirate
-[linkedin]: https://linkedin.com/in/anttirask
-[spotify-antti-&-isotalo]: https://open.spotify.com/artist/6eYZ8OLHJoggLFkUmRzaQe
-[spotify-eriparimies]: https://open.spotify.com/artist/4CkrcH7nq96ubCIBdnEGos
-[ISLR]: https://www.statlearning.com/
-[R]: https://www.r-project.org/
+[blog-post-workflow]: https://github.com/gautamkrishnar/blog-post-workflow
 [git]: https://git-scm.com/
 [github]: https://github.com/
 [hugo]: https://gohugo.io
-
-<!--- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 --->
+[instagram]: https://instagram.com/youcanbeapirate
+[ISLR]: https://www.statlearning.com/
+[linkedin]: https://linkedin.com/in/anttirask
+[R]: https://www.r-project.org/
+[spotify-antti-&-isotalo]: https://open.spotify.com/artist/6eYZ8OLHJoggLFkUmRzaQe
+[spotify-eriparimies]: https://open.spotify.com/artist/4CkrcH7nq96ubCIBdnEGos
+[twitter]: https://twitter.com/youcanbeapirate
