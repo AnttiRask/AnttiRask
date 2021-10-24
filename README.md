@@ -9,10 +9,15 @@ Thank you for taking the time and visiting my GitHub profile. Great to have you 
 - 📚 Since 2019 I've been studying data analytics and data science. It's funny, but I think I finally know what I want to do when I 'grow up'.
 
 ### Current 
-- 🔭 In May 2021 I launched my R related blog, "why join the navy when you can be a pi{R}ate": [youcanbeapirate][blog]!
-- 🌱 I’m currently learning [statistical learning][ISLR] (among other things)
+- 🔭 In May 2021 I launched my R related blog [why join the navy when you can be a pi{R}ate][blog]
+- 🌱 I’m currently studying [statistical learning][ISLR] (among other things)
 - 👯 I’m looking to connect and/or collaborate especially with others interested in both data and music (business)
-- 🥅 2021 Goals: Continue learning new things and writing blog posts about the process 
+- 🥅 2021 Goals: 
+    - Continue learning new things every day
+    - Write blog posts about the process
+    - Read 50 books (my [goodreads profile][goodreads])
+    - Finish [DataCamp][datacamp] Data Science certification
+    - Further develop (and publish parts of) my passion project of gathering and analyzing data from Spotify, YouTube and radio charts (in Finland)
 
 ### Fun facts:
 - ⚡ I love to sing and play the ukulele. I play in a band, [Antti & Isotalo][spotify-antti-&-isotalo], but have also released a solo EP under the name [Eriparimies][spotify-eriparimies].
@@ -57,8 +62,10 @@ Thank you for taking the time and visiting my GitHub profile. Great to have you 
 
 [blog]: https://youcanbeapirate.com
 [blog-post-workflow]: https://github.com/gautamkrishnar/blog-post-workflow
+[datacamp]: https://www.datacamp.com/
 [git]: https://git-scm.com/
 [github]: https://github.com/
+[goodreads]: https://www.goodreads.com/user/show/71395134-antti-rask
 [hugo]: https://gohugo.io
 [instagram]: https://instagram.com/youcanbeapirate
 [ISLR]: https://www.statlearning.com/
