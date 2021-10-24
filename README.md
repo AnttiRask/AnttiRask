@@ -21,7 +21,7 @@ Thank you for taking the time and visiting my GitHub profile. Great to have you 
 
 ### Fun facts:
 - ⚡ I love to sing and play the ukulele. I play in a band, [Antti & Isotalo][spotify-antti-&-isotalo], but have also released a solo EP under the name [Eriparimies][spotify-eriparimies].
-- 🎥 Related to the previous fact, I was a contestant in the Voice of Finland 2019. A great experience, although I would never want to go through it again!
+- 🎥 Related to the previous fact, I was a contestant in The Voice of Finland 2019. A great experience, although I would never want to go through it again!
 
 ### Connect with me:
 [<img align="left" alt="youcanbeapirate.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
