@@ -5,14 +5,14 @@
 Thank you for taking the time and visiting my GitHub profile. Great to have you here!
 
 ### About Me:
-- 📊 I'm a Business Development Manager with a 20+ years of experience in the music industry.
-- 📚 Since 2019 I've been studying data analytics and data science. It's funny, but I think I finally know what I want to do when I 'grow up'.
+- 📊 I'm a Data Analytics Lead (since may 2022) with a 20+ years of experience in the music industry.
+- 📚 I've been studying data analytics and data science since 2019. And the learning never stops! #constantlearning
 
 ### Current 
-- 🔭 In May 2021 I launched my R related blog [why join the navy when you can be a pi{R}ate][blog]
+- 🔭 I have an R related blog [why join the navy when you can be a pi{R}ate][blog]
 - 🌱 I’m currently studying [statistical learning][ISLR] (among other things)
 - 👯 I’m looking to connect and/or collaborate especially with others interested in both data and music (business)
-- 🥅 2021 Goals: 
+- 🥅 2022 Goals: 
     - Continue learning new things every day
     - Write blog posts about the process
     - Read 50 books (my [goodreads profile][goodreads])
