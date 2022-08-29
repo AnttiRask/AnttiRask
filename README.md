@@ -34,6 +34,7 @@ Thank you for taking the time and visiting my GitHub profile. Great to have you 
 ### Languages and Tools:
 
 [<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][R]
+[<img align="left" alt="R" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Alteryx_logo.png" />][alteryx]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Hugo" width="26px" src="https://camo.githubusercontent.com/3da72386ebb1b378d28f0a7206cb3263fa0ed29448119c6f75fa1ab03aa274ee/68747470733a2f2f6170692e69636f6e6966792e64657369676e2f6c6f676f732d6875676f2e737667" />][hugo]
@@ -60,6 +61,7 @@ Thank you for taking the time and visiting my GitHub profile. Great to have you 
 <br />
 (And if you want to find out how to automate your blog post workflow, check out this repo by [Gautama Krishna R][blog-post-workflow])
 
+[alteryx]: https://www.alteryx.com
 [blog]: https://youcanbeapirate.com
 [blog-post-workflow]: https://github.com/gautamkrishnar/blog-post-workflow
 [datacamp]: https://www.datacamp.com/
