@@ -1,7 +1,6 @@
 [![Website](https://img.shields.io/website?label=youcanbeapirate.com&style=for-the-badge&url=https%3A%2F%2Fyoucanbeapirate.com)](https://youcanbeapirate.com/)
-[![Website](https://img.shields.io/website?label=youcanbeapirate.shinyapps.io/music-recommender&style=for-the-badge&url=https%3A%2F%2Fyoucanbeapirate.shinyapps.io/music-recommender/)](https://youcanbeapirate.shinyapps.io/music-recommender/)
 [![Website](https://img.shields.io/website?label=ggplot2-extended-book.com&style=for-the-badge&url=https%3A%2F%2Fggplot2-extended-book.com/)](https://ggplot2-extended-book.com/)
-
+[![Website](https://img.shields.io/website?label=youcanbeapirate.shinyapps.io/music-recommender&style=for-the-badge&url=https%3A%2F%2Fyoucanbeapirate.shinyapps.io/music-recommender/)](https://youcanbeapirate.shinyapps.io/music-recommender/)
 
 ### Hi there 👋
 Thank you for taking the time and visiting my GitHub profile. Great to have you here!
