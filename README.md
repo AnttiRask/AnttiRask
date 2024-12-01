@@ -5,7 +5,7 @@
 ### Hi there 👋
 Thank you for taking the time and visiting my GitHub profile. Great to have you here!
 
-### About Me:
+### About Me
 - 📊 I'm a Data Analyst (as in had that in my job title since May 2022)
 - 📚 I've been studying data analytics and data science since 2019. And the learning never stops! #ConstantLearning
 - 🎶 I have a 20+ years of experience in music and the music industry
@@ -31,15 +31,14 @@ Thank you for taking the time and visiting my GitHub profile. Great to have you 
     - [Sounds of Mercy Gospel Choir][spotify-sounds-of-mercy]
 - 🎥 Related to the previous fact, I was a contestant in [The Voice of Finland 2019][voice-of-finland].
 
-### Connect with me:
+### Connect with me
 [<img align="left" alt="youcanbeapirate.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
 [<img align="left" alt="youcanbeapirate | Bluesky" width="22px" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/bluesky-7gwyi9q582x9btwh7n9qc6.png/bluesky-lp8y5pdi2ob29youg4ycf.png" />][bluesky]
 [<img align="left" alt="anttirask | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
-### Languages and Tools:
-
+### Languages and Tools
 [<img align="left" alt="R" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Alteryx_logo.png" />][alteryx]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
