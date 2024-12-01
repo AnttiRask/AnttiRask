@@ -33,7 +33,7 @@ Thank you for taking the time and visiting my GitHub profile. Great to have you 
 
 ### Connect with me:
 [<img align="left" alt="youcanbeapirate.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
-[<img align="left" alt="youcanbeapirate | Bluesky" width="22px" src="https://www.streamlinehq.com/icons/download/bluesky--31088" />][bluesky]
+[<img align="left" alt="youcanbeapirate | Bluesky" width="22px" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/bluesky-7gwyi9q582x9btwh7n9qc6.png/bluesky-lp8y5pdi2ob29youg4ycf.png" />][bluesky]
 [<img align="left" alt="anttirask | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -43,7 +43,7 @@ Thank you for taking the time and visiting my GitHub profile. Great to have you 
 [<img align="left" alt="R" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Alteryx_logo.png" />][alteryx]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Hugo" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][hugo]
+[<img align="left" alt="Hugo" width="26px" src="https://www.websolutions.cy/technologies/hugo/logo.png" />][hugo]
 [<img align="left" alt="Power BI" width="26px" src="https://cdn.icon-icons.com/icons2/3660/PNG/512/data_office_power_bi_logo_microsoft_icon_228487.png" />][pbi]
 [<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][R]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
@@ -82,7 +82,7 @@ Thank you for taking the time and visiting my GitHub profile. Great to have you 
 [hugo]: https://gohugo.io/
 [linkedin]: https://linkedin.com/in/anttirask/
 [package]: https://www.spsanderson.com/RandomWalker/
-[power-bi]: https://www.microsoft.com/en-us/power-platform/products/power-bi/
+[pbi]: https://www.microsoft.com/en-us/power-platform/products/power-bi/
 [R]: https://www.r-project.org/
 [spotify-antti-&-isotalo]: https://open.spotify.com/artist/6eYZ8OLHJoggLFkUmRzaQe
 [spotify-emmi-kuittinen]: https://open.spotify.com/album/20XzNsgGTw72wzBxE5VYlU
