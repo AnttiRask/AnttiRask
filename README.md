@@ -1,46 +1,53 @@
-[![Website](https://img.shields.io/website?label=youcanbeapirate.com&style=for-the-badge&url=https%3A%2F%2Fyoucanbeapirate.com)](https://youcanbeapirate.com/)
 [![Website](https://img.shields.io/website?label=ggplot2-extended-book.com&style=for-the-badge&url=https%3A%2F%2Fggplot2-extended-book.com/)](https://ggplot2-extended-book.com/)
-[![Website](https://img.shields.io/website?label=youcanbeapirate.shinyapps.io/music-recommender&style=for-the-badge&url=https%3A%2F%2Fyoucanbeapirate.shinyapps.io/music-recommender/)](https://youcanbeapirate.shinyapps.io/music-recommender/)
+[![Website](https://img.shields.io/website?label=youcanbeapirate.com&style=for-the-badge&url=https%3A%2F%2Fyoucanbeapirate.com)](https://youcanbeapirate.com/)
+[![Website](https://img.shields.io/website?label=youcanbeapirate.shinyapps.io/TuneTeller&style=for-the-badge&url=https%3A%2F%2Fyoucanbeapirate.shinyapps.io/TuneTeller/)](https://youcanbeapirate.shinyapps.io/TuneTeller/)
 
 ### Hi there 👋
 Thank you for taking the time and visiting my GitHub profile. Great to have you here!
 
 ### About Me:
-- 📊 I'm a Data Analytics Lead (since may 2022) with a 20+ years of experience in the music industry.
-- 📚 I've been studying data analytics and data science since 2019. And the learning never stops! #constantlearning
+- 📊 I'm a Data Analyst (as in had that in my job title since May 2022)
+- 📚 I've been studying data analytics and data science since 2019. And the learning never stops! #ConstantLearning
+- 🎶 I have a 20+ years of experience in music and the music industry
+- 🛍️ Nowadays I work in retail
+- 🤝 I'm one of the founders of [Helsinki Data Week][hdw]. An annual data conference in Helsinki
 
 ### Current 
+- ✍️ I'm writing a book about ggplot2 extensions, [ggplot2 extended][book]
+- 📦 I'm co-authoring an R package, [RandomWalker][package]
 - 🔭 I have an R related blog [why join the navy when you can be a pi{R}ate][blog]
-- 🌱 I’m currently studying [statistical learning][ISLR] (among other things)
-- 👯 I’m looking to connect and/or collaborate especially with others interested in both data and music (business)
-- 🥅 2022 Goals: 
+- 👯 I’m looking to connect and/or collaborate with others interested data
+- 🥅 2025 Goals:
     - Continue learning new things every day
-    - Write blog posts about the process
-    - Read 50 books (my [goodreads profile][goodreads])
-    - Finish [DataCamp][datacamp] Data Science certification
-    - Further develop (and publish parts of) my passion project of gathering and analyzing data from Spotify, YouTube and radio charts (in Finland)
+    - Finish writing the book
+    - Read and/or listen to a 100 books (my [goodreads profile][goodreads])
+    - Helsinki Data Week, but bigger and better
 
 ### Fun facts:
-- ⚡ I love to sing and play the ukulele. I play in a band, [Antti & Isotalo][spotify-antti-&-isotalo], but have also released a solo EP under the name [Eriparimies][spotify-eriparimies].
-- 🎥 Related to the previous fact, I was a contestant in The Voice of Finland 2019. A great experience, although I would never want to go through it again!
+- ⚡ I'm also a musician. These are the project's I'm in:
+    - [Antti & Isotalo][spotify-antti-&-isotalo] 
+    - [Emmi Kuittinen][spotify-emmi-kuittinen]
+    - [Eriparimies][spotify-eriparimies]
+    - [Sounds of Mercy Gospel Choir][spotify-sounds-of-mercy]
+- 🎥 Related to the previous fact, I was a contestant in [The Voice of Finland 2019][voice-of-finland].
 
 ### Connect with me:
 [<img align="left" alt="youcanbeapirate.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
+[<img align="left" alt="youcanbeapirate | Bluesky" width="22px" src="https://www.streamlinehq.com/icons/download/bluesky--31088" />][bluesky]
 [<img align="left" alt="anttirask | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="youcanbeapirate | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="youcanbeapirate | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][R]
 [<img align="left" alt="R" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Alteryx_logo.png" />][alteryx]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Hugo" width="26px" src="https://camo.githubusercontent.com/3da72386ebb1b378d28f0a7206cb3263fa0ed29448119c6f75fa1ab03aa274ee/68747470733a2f2f6170692e69636f6e6966792e64657369676e2f6c6f676f732d6875676f2e737667" />][hugo]
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+[<img align="left" alt="Hugo" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][hugo]
+[<img align="left" alt="Power BI" width="26px" src="https://cdn.icon-icons.com/icons2/3660/PNG/512/data_office_power_bi_logo_microsoft_icon_228487.png" />][pbi]
+[<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][R]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
+
 
 <br />
 <br />
@@ -62,18 +69,24 @@ Thank you for taking the time and visiting my GitHub profile. Great to have you 
 <br />
 (And if you want to find out how to automate your blog post workflow, check out this repo by [Gautama Krishna R][blog-post-workflow])
 
-[alteryx]: https://www.alteryx.com
-[blog]: https://youcanbeapirate.com
-[blog-post-workflow]: https://github.com/gautamkrishnar/blog-post-workflow
+[alteryx]: https://www.alteryx.com/
+[blog]: https://youcanbeapirate.com/
+[blog-post-workflow]: https://github.com/gautamkrishnar/blog-post-workflow/
+[bluesky]: https://bsky.app/profile/youcanbeapirate.bsky.social/
+[book]: https://ggplot2-extended-book.com/
 [datacamp]: https://www.datacamp.com/
 [git]: https://git-scm.com/
 [github]: https://github.com/
 [goodreads]: https://www.goodreads.com/user/show/71395134-antti-rask
-[hugo]: https://gohugo.io
-[instagram]: https://instagram.com/youcanbeapirate
-[ISLR]: https://www.statlearning.com/
-[linkedin]: https://linkedin.com/in/anttirask
+[hdw]: https://www.helsinkidataweek.com/
+[hugo]: https://gohugo.io/
+[linkedin]: https://linkedin.com/in/anttirask/
+[package]: https://www.spsanderson.com/RandomWalker/
+[power-bi]: https://www.microsoft.com/en-us/power-platform/products/power-bi/
 [R]: https://www.r-project.org/
 [spotify-antti-&-isotalo]: https://open.spotify.com/artist/6eYZ8OLHJoggLFkUmRzaQe
+[spotify-emmi-kuittinen]: https://open.spotify.com/album/20XzNsgGTw72wzBxE5VYlU
 [spotify-eriparimies]: https://open.spotify.com/artist/4CkrcH7nq96ubCIBdnEGos
-[twitter]: https://twitter.com/youcanbeapirate
+[spotify-sounds-of-mercy]: https://open.spotify.com/artist/1YkIWpfSqI4maRjMPDiGxh?si=E7_sgzGSSCaHy3O1p-GR3w
+[sql]: https://en.wikipedia.org/wiki/SQL
+[voice-of-finland]: https://www.ruutu.fi/video/3348651
