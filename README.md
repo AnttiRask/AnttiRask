@@ -22,6 +22,7 @@ Thank you for taking the time and visiting my GitHub profile. Great to have you 
     - Finish writing the book
     - Read and/or listen to a 100 books (my [goodreads profile][goodreads])
     - Helsinki Data Week, but bigger and better
+    - Learning Linux! I switched recently from Windows (it's a long story). This line is the first one I write on Linux Mint...
 
 ### Fun facts:
 - ⚡ I'm also a musician. These are the project's I'm in:
