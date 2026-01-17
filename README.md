@@ -64,11 +64,6 @@ I'm a data person from Finland. I love working with data, learning new things, a
 - I used to write about R and data analysis in my blog: [Why Join the Navy When You Can Be a piRate](https://www.youcanbeapirate.com/).
     - It still exists, but hasn't been updated in a while
 
-## GitHub Stats
-
-![Antti's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnttiRask&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnttiRask&layout=compact&theme=default&hide_border=true)
-
 ## Connect
 
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/anttirask/) or explore my repositories!
