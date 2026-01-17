@@ -19,9 +19,9 @@ I'm a data person from Finland. I love working with data, learning new things, a
 
 | Project | Website | Description |
 |---------|---------|-------------|
-| [BiblioStatus](https://github.com/AnttiRask/BiblioStatus) | [https://youcanbeapirate.shinyapps.io/BiblioStatus/](https://youcanbeapirate.shinyapps.io/BiblioStatus/) | Shiny app showing real-time Finnish library opening hours on a map |
+| [BiblioStatus](https://anttirask.github.io/BiblioStatus/) | [https://youcanbeapirate.shinyapps.io/BiblioStatus/](https://youcanbeapirate.shinyapps.io/BiblioStatus/) | Shiny app showing real-time Finnish library opening hours on a map |
 | [Spotify Playlist Generator (local)](https://github.com/AnttiRask/spotify-playlist-generator-local) | - | Generate Spotify playlists based on your favorite artists |
-| [TuneTeller](https://github.com/AnttiRask/music_recommender) | [https://youcanbeapirate.shinyapps.io/TuneTeller/](https://youcanbeapirate.shinyapps.io/TuneTeller/) | Music recommendations using OpenAI + Spotify APIs. Honorable mention in the Posit 2024 Shiny Contest |
+| [TuneTeller](https://anttirask.github.io/TuneTeller/) | [https://youcanbeapirate.shinyapps.io/TuneTeller/](https://youcanbeapirate.shinyapps.io/TuneTeller/) | Music recommendations using OpenAI + Spotify APIs. Honorable mention in the Posit 2024 Shiny Contest |
 
 ### Books & Educational Content
 
@@ -37,8 +37,8 @@ I'm a data person from Finland. I love working with data, learning new things, a
 
 | Project | Description |
 |---------|-------------|
-| [col2hex2col](https://github.com/AnttiRask/col2hex2col) | R package for converting between color names and hex codes |
-| [RandomWalker](https://github.com/spsanderson/RandomWalker) | R package for generating, visualizing, and analyzing random walks (co-author) |
+| [col2hex2col](https://anttirask.github.io/col2hex2col/) | R package for converting between color names and hex codes |
+| [RandomWalker](https://www.spsanderson.com/RandomWalker/) | R package for generating, visualizing, and analyzing random walks (co-author) |
 
 ### Data Visualization
 
