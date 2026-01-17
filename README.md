@@ -1,92 +1,74 @@
-[![Website](https://img.shields.io/website?label=ggplot2-extended-book.com&style=for-the-badge&url=https%3A%2F%2Fggplot2-extended-book.com/)](https://ggplot2-extended-book.com/)
-[![Website](https://img.shields.io/website?label=youcanbeapirate.com&style=for-the-badge&url=https%3A%2F%2Fyoucanbeapirate.com)](https://youcanbeapirate.com/)
-[![Website](https://img.shields.io/website?label=youcanbeapirate.shinyapps.io/TuneTeller&style=for-the-badge&url=https%3A%2F%2Fyoucanbeapirate.shinyapps.io/TuneTeller/)](https://youcanbeapirate.shinyapps.io/TuneTeller/)
+# Hi, I'm Antti Rask!
 
-### Hi there 👋
-Thank you for taking the time and visiting my GitHub profile. Great to have you here!
+I'm a data person from Finland. I love working with data, learning new things, and sharing what I learn along the way.
 
-### About Me
-- 📊 I'm a Data Analyst (as in had that in my job title since May 2022)
-- 📚 I've been studying data analytics and data science since 2019. And the learning never stops! #ConstantLearning
-- 🎶 I have a 20+ years of experience in music and the music industry
-- 🛍️ Nowadays I work in retail
-- 🤝 I'm one of the founders of [Helsinki Data Week][hdw]. An annual data conference in Helsinki
+## What I Do
 
-### Current 
-- ✍️ I'm writing a book about ggplot2 extensions, [ggplot2 extended][book]
-- 📦 I'm co-authoring an R package, [RandomWalker][package]
-- 🔭 I have an R related blog [why join the navy when you can be a pi{R}ate][blog]
-- 👯 I’m looking to connect and/or collaborate with others interested data
-- 🥅 2025 Goals:
-    - Continue learning new things every day
-    - Finish writing the book
-    - Read and/or listen to a 100 books (my [goodreads profile][goodreads])
-    - Helsinki Data Week, but bigger and better
-    - Learning Linux! I recently switched from Windows (it's a long story)... Lots to learn on Linux Mint (and beyond)...
+- **Data Analysis & Visualization**, mainly with R, ggplot2, and the rest of the tidyverse
+- **Machine Learning** using tidymodels
+- **Shiny Apps** for interactive data applications
+- **Power BI & DAX** for business intelligence
+- Other projects, like the one with **Spotify API** that combines music and data
+- Nowadays I also use **Claude Code** (like everyone else and their grandmas) and **Python** for some of the projects
+    - While I don't think that **AI** is the answer to all our problems, it does make coding easier/faster
+    - And as mentioned, I like learning new things, which is another reason I've kept an open mind
 
-### Fun facts:
-- ⚡ I'm also a musician. These are the project's I'm in:
-    - [Antti & Isotalo][spotify-antti-&-isotalo] 
-    - [Emmi Kuittinen][spotify-emmi-kuittinen]
-    - [Eriparimies][spotify-eriparimies]
-    - [Sounds of Mercy Gospel Choir][spotify-sounds-of-mercy]
-- 🎥 Related to the previous fact, I was a contestant in [The Voice of Finland 2019][voice-of-finland].
+## Featured Projects
 
-### Connect with me
-[<img align="left" alt="youcanbeapirate.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
-[<img align="left" alt="youcanbeapirate | Bluesky" width="22px" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/bluesky-7gwyi9q582x9btwh7n9qc6.png/bluesky-lp8y5pdi2ob29youg4ycf.png" />][bluesky]
-[<img align="left" alt="anttirask | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Applications
 
-<br />
+| Project | Website | Description |
+|---------|---------|-------------|
+| [BiblioStatus](https://github.com/AnttiRask/BiblioStatus) | [https://youcanbeapirate.shinyapps.io/BiblioStatus/](https://youcanbeapirate.shinyapps.io/BiblioStatus/) | Shiny app showing real-time Finnish library opening hours on a map |
+| [Spotify Playlist Generator (local)](https://github.com/AnttiRask/spotify-playlist-generator-local) | - | Generate Spotify playlists based on your favorite artists |
+| [TuneTeller](https://github.com/AnttiRask/music_recommender) | [https://youcanbeapirate.shinyapps.io/TuneTeller/](https://youcanbeapirate.shinyapps.io/TuneTeller/) | Music recommendations using OpenAI + Spotify APIs. Honorable mention in the Posit 2024 Shiny Contest |
 
-### Languages and Tools
-[<img align="left" alt="R" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Alteryx_logo.png" />][alteryx]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Hugo" width="26px" src="https://www.websolutions.cy/technologies/hugo/logo.png" />][hugo]
-[<img align="left" alt="Power BI" width="26px" src="https://cdn.icon-icons.com/icons2/3660/PNG/512/data_office_power_bi_logo_microsoft_icon_228487.png" />][pbi]
-[<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][R]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
+### Books & Educational Content
 
+| Project | Description |
+|---------|-------------|
+| [ggplot2 extended](https://github.com/AnttiRask/ggplot2-extended-book) | My [book](https://ggplot2-extended-book.com/) (in progress) on extending ggplot2 capabilities |
+| [How to {insert topic here} with R](https://github.com/AnttiRask/how_to_insert_topic_here_with_R) | Collection of R tutorials and examples |
+| [Learning DAX](https://github.com/AnttiRask/learning_dax) | DAX patterns translated to VAR/RETURN syntax |
+| [Learning ggplot2](https://github.com/AnttiRask/learning_ggplot2) | Comprehensive ggplot2 learning resources |
+| [Learning Machine Learning](https://github.com/AnttiRask/learning_machine_learning) | ML with tidyverse and tidymodels |
 
-<br />
-<br />
+### R Packages & Tools
 
----
+| Project | Description |
+|---------|-------------|
+| [col2hex2col](https://github.com/AnttiRask/col2hex2col) | R package for converting between color names and hex codes |
+| [RandomWalker](https://github.com/spsanderson/RandomWalker) | R package for generating, visualizing, and analyzing random walks (co-author) |
 
-### 📕 Latest Blog Posts
+### Data Visualization
 
-<!-- BLOG-POST-LIST:START -->
-- [Anonymizing Data and Creating Fake Data - Localize It!](https://youcanbeapirate.com/2021/08/15/anonymizing-data-and-creating-fake-data-localize-it/)
-- [Anonymizing Data and Creating Fake Data](https://youcanbeapirate.com/2021/06/27/anonymizing-data-and-creating-fake-data/)
-- [Mining Text from PDF Files, Part 3: PDF with an Image](https://youcanbeapirate.com/2021/06/05/mining-text-from-pdf-files-part-3-pdf-with-an-image/)
-- [Mining Text from PDF Files, Part 2: PDF with Tables](https://youcanbeapirate.com/2021/05/29/mining-text-from-pdf-files-part-2-pdf-with-tables/)
-- [Mining Text from PDF Files, Part 1: PDF with Text](https://youcanbeapirate.com/2021/05/22/mining-text-from-pdf-files-part-1-pdf-with-text/)
-<!-- BLOG-POST-LIST:END -->
+| Project | Description |
+|---------|-------------|
+| [Hillshade Finland](https://github.com/AnttiRask/hillshade_finland) | Hillshade maps of Finland |
+| [Starmap with Starbliss](https://github.com/AnttiRask/starmap_with_starbliss) | Creating beautiful star maps with R |
 
-➡️ [more blog posts...](https://youcanbeapirate.com)
-<br />
-<br />
-(And if you want to find out how to automate your blog post workflow, check out this repo by [Gautama Krishna R][blog-post-workflow])
+## Tech Stack
 
-[alteryx]: https://www.alteryx.com/
-[blog]: https://youcanbeapirate.com/
-[blog-post-workflow]: https://github.com/gautamkrishnar/blog-post-workflow/
-[bluesky]: https://bsky.app/profile/youcanbeapirate.bsky.social/
-[book]: https://ggplot2-extended-book.com/
-[datacamp]: https://www.datacamp.com/
-[git]: https://git-scm.com/
-[github]: https://github.com/
-[goodreads]: https://www.goodreads.com/user/show/71395134-antti-rask
-[hdw]: https://www.helsinkidataweek.com/
-[hugo]: https://gohugo.io/
-[linkedin]: https://linkedin.com/in/anttirask/
-[package]: https://www.spsanderson.com/RandomWalker/
-[pbi]: https://www.microsoft.com/en-us/power-platform/products/power-bi/
-[R]: https://www.r-project.org/
-[spotify-antti-&-isotalo]: https://open.spotify.com/artist/6eYZ8OLHJoggLFkUmRzaQe
-[spotify-emmi-kuittinen]: https://open.spotify.com/album/20XzNsgGTw72wzBxE5VYlU
-[spotify-eriparimies]: https://open.spotify.com/artist/4CkrcH7nq96ubCIBdnEGos
-[spotify-sounds-of-mercy]: https://open.spotify.com/artist/1YkIWpfSqI4maRjMPDiGxh?si=E7_sgzGSSCaHy3O1p-GR3w
-[sql]: https://en.wikipedia.org/wiki/SQL
-[voice-of-finland]: https://www.ruutu.fi/video/3348651
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
+![Shiny](https://img.shields.io/badge/-Shiny-13B5EA?style=flat-square&logo=r&logoColor=white)
+![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+
+## Blog(s)
+
+- I have two Substack channels:
+    - [ggplot2 extended](https://ggplot2extended.substack.com/) is for all the R stuff, including BTS for the book I'm writing
+    - And [youcanbeapiRate](https://youcanbeapirate.substack.com/) is for everything else I'm interested in
+- I used to write about R and data analysis in my blog: [Why Join the Navy When You Can Be a piRate](https://www.youcanbeapirate.com/).
+    - It still exists, but hasn't been updated in a while
+
+## GitHub Stats
+
+![Antti's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnttiRask&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnttiRask&layout=compact&theme=default&hide_border=true)
+
+## Connect
+
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/anttirask/) or explore my repositories!
