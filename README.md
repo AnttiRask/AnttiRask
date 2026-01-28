@@ -22,6 +22,7 @@ I'm a data person from Finland. I love working with data, learning new things, a
 | [BiblioStatus](https://anttirask.github.io/BiblioStatus/) | [https://youcanbeapirate.shinyapps.io/BiblioStatus/](https://youcanbeapirate.shinyapps.io/BiblioStatus/) | Shiny app showing real-time Finnish library opening hours on a map |
 | [Spotify Playlist Generator (local)](https://github.com/AnttiRask/spotify-playlist-generator-local) | - | Generate Spotify playlists based on your favorite artists |
 | [TuneTeller](https://anttirask.github.io/TuneTeller/) | [https://youcanbeapirate.shinyapps.io/TuneTeller/](https://youcanbeapirate.shinyapps.io/TuneTeller/) | Music recommendations using OpenAI + Spotify APIs. Honorable mention in the Posit 2024 Shiny Contest |
+| [Gallery of the Day](https://anttirask.github.io/gallery-of-the-day/) | [https://youcanbeapirate.shinyapps.io/gallery-of-the-day/](https://youcanbeapirate.shinyapps.io/gallery-of-the-day/) | Daily AI-generated images inspired by historical events, powered by GPT-4o-mini and DALL-E 3 |
 
 ### Books & Educational Content
 
