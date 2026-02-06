@@ -19,10 +19,10 @@ I'm a data person from Finland. I love working with data, learning new things, a
 
 | Project | Website | Description |
 |---------|---------|-------------|
-| [BiblioStatus](https://anttirask.github.io/BiblioStatus/) | [https://youcanbeapirate.shinyapps.io/BiblioStatus/](https://youcanbeapirate.shinyapps.io/BiblioStatus/) | Shiny app showing real-time Finnish library opening hours on a map |
-| [TrackTeller](https://anttirask.github.io/TrackTeller/) | [https://trackteller.youcanbeapirate.com](https://trackteller.youcanbeapirate.com) | Spotify listening insights and playlist creator, deployed on Google Cloud Run |
-| [TuneTeller](https://anttirask.github.io/TuneTeller/) | [https://youcanbeapirate.shinyapps.io/TuneTeller/](https://youcanbeapirate.shinyapps.io/TuneTeller/) | Music recommendations using OpenAI + Spotify APIs. Honorable mention in the Posit 2024 Shiny Contest |
-| [Gallery of the Day](https://anttirask.github.io/gallery-of-the-day/) | [https://youcanbeapirate.shinyapps.io/gallery-of-the-day/](https://youcanbeapirate.shinyapps.io/gallery-of-the-day/) | Daily AI-generated images inspired by historical events, powered by GPT-4o-mini and DALL-E 3 |
+| [BiblioStatus](https://youcanbeapirate.com/BiblioStatus/) | [https://youcanbeapirate.shinyapps.io/BiblioStatus/](https://youcanbeapirate.shinyapps.io/BiblioStatus/) | Shiny app showing real-time Finnish library opening hours on a map |
+| [TrackTeller](https://youcanbeapirate.com/TrackTeller/) | [https://trackteller.youcanbeapirate.com](https://trackteller.youcanbeapirate.com) | Spotify listening insights and playlist creator, deployed on Google Cloud Run |
+| [TuneTeller](https://youcanbeapirate.com/TuneTeller/) | [https://youcanbeapirate.shinyapps.io/TuneTeller/](https://youcanbeapirate.shinyapps.io/TuneTeller/) | Music recommendations using OpenAI + Spotify APIs. Honorable mention in the Posit 2024 Shiny Contest |
+| [Gallery of the Day](https://youcanbeapirate.com/gallery-of-the-day/) | [https://youcanbeapirate.shinyapps.io/gallery-of-the-day/](https://youcanbeapirate.shinyapps.io/gallery-of-the-day/) | Daily AI-generated images inspired by historical events, powered by GPT-4o-mini and DALL-E 3 |
 
 ### Books & Educational Content
 
@@ -38,7 +38,7 @@ I'm a data person from Finland. I love working with data, learning new things, a
 
 | Project | Description |
 |---------|-------------|
-| [col2hex2col](https://anttirask.github.io/col2hex2col/) | R package for converting between color names and hex codes |
+| [col2hex2col](https://youcanbeapirate.com/col2hex2col/) | R package for converting between color names and hex codes |
 | [RandomWalker](https://www.spsanderson.com/RandomWalker/) | R package for generating, visualizing, and analyzing random walks (co-author) |
 
 ### Data Visualization
@@ -62,8 +62,7 @@ I'm a data person from Finland. I love working with data, learning new things, a
 - I have two Substack channels:
     - [ggplot2 extended](https://ggplot2extended.substack.com/) is for all the R stuff, including BTS for the book I'm writing
     - And [youcanbeapiRate](https://youcanbeapirate.substack.com/) is for everything else I'm interested in
-- I used to write about R and data analysis in my blog: [Why Join the Navy When You Can Be a piRate](https://www.youcanbeapirate.com/).
-    - It still exists, but hasn't been updated in a while
+- My portfolio site: [youcanbeapirate.com](https://www.youcanbeapirate.com/)
 
 ## Connect
 
