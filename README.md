@@ -19,10 +19,10 @@ I'm a data person from Finland. I love working with data, learning new things, a
 
 | Project | Website | Description |
 |---------|---------|-------------|
-| [BiblioStatus](https://youcanbeapirate.com/BiblioStatus/) | [https://bibliostatus.youcanbeapirate.com](https://bibliostatus.youcanbeapirate.com) | Shiny app showing real-time Finnish library opening hours on a map |
-| [TrackTeller](https://youcanbeapirate.com/TrackTeller/) | [https://trackteller.youcanbeapirate.com](https://trackteller.youcanbeapirate.com) | Spotify listening insights and playlist creator, deployed on Google Cloud Run |
+| [BiblioStatus](https://youcanbeapirate.com/BiblioStatus/) | [https://bibliostatus.youcanbeapirate.com/](https://bibliostatus.youcanbeapirate.com/) | Shiny app showing real-time Finnish library opening hours on a map |
+| [TrackTeller](https://youcanbeapirate.com/TrackTeller/) | [https://trackteller.youcanbeapirate.com/](https://trackteller.youcanbeapirate.com/) | Spotify listening insights and playlist creator, deployed on Google Cloud Run |
 | [TuneTeller](https://youcanbeapirate.com/TuneTeller/) | [https://tuneteller.youcanbeapirate.com/](https://tuneteller.youcanbeapirate.com/) | Music recommendations using OpenAI + Spotify APIs. Honorable mention in the Posit 2024 Shiny Contest |
-| [Gallery of the Day](https://youcanbeapirate.com/gallery-of-the-day/) | [https://youcanbeapirate.shinyapps.io/gallery-of-the-day/](https://youcanbeapirate.shinyapps.io/gallery-of-the-day/) | Daily AI-generated images inspired by historical events, powered by GPT-4o-mini and DALL-E 3 |
+| [Gallery of the Day](https://youcanbeapirate.com/gallery-of-the-day/) | [https://galleryoftheday.youcanbeapirate.com/](https://galleryoftheday.youcanbeapirate.com/) | Daily AI-generated images inspired by historical events, powered by GPT-4o-mini and DALL-E 3 |
 
 ### Books & Educational Content
 
